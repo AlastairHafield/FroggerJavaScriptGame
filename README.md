@@ -1,4 +1,4 @@
-#FROGGER GAME
+## FROGGER GAME
 
 A 2d game made for the purposes of JavaScript learning
 
